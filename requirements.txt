@@ -1,0 +1,4 @@
+azure-functions
+qdrant-client>=1.8.2
+scikit-learn
+numpy
